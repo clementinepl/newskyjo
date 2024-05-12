@@ -1,7 +1,7 @@
 # newskyjo
 Une revisite du jeu de cartes Skyjo, rééquilibré et avec de nouvelles mécaniques
 
------ SKYJO REVISITE -----
+----- NEWSKYJO -----
 Par Clémentine Plissonnier, Game designer Freelance
 
 -> L'équilibrage du Skyjo original provoque des scores très écartés et aléatoires, ce que j'ai voulu corriger
