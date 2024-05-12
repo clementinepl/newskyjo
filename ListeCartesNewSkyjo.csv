@@ -1,0 +1,136 @@
+ID carte,Valeur carte,Effet
+1,-2,"Laisse la personne à ta droite échanger une de ses cartes avec une des tiennes, puis pose cette carte sur ton jeu"
+2,-2,Tu peux uniquement placer cette carte en bas à gauche de ton jeu
+3,-2,Tu peux uniquement placer cette carte en bas à gauche de ton jeu
+4,-2,La personne qui joue après toi joue deux fois
+5,-2,"Echange ta carte la plus basse avec la dernière carte de la défausse, puis place cette carte sur ton jeu"
+6,-1,Tu peux uniquement placer cette carte en haut à gauche de ton jeu
+7,-1,Tu peux uniquement placer cette carte en haut à droite de ton jeu
+8,-1,Tu peux uniquement placer cette carte en haut à droite de ton jeu
+9,-1,La personne qui joue après toi joue deux fois
+10,-1,La personne qui joue après toi joue deux fois
+11,-1,"Echange ta carte la plus basse avec la dernière carte de la défausse, puis place cette carte sur ton jeu"
+12,-1,"Laisse la personne à ta droite échanger une de ses cartes avec une des tiennes, puis pose cette carte sur ton jeu"
+13,0,
+14,0,
+15,0,Tu peux uniquement placer cette carte en haut à droite de ton jeu
+16,0,Tu peux uniquement placer cette carte en bas à gauche de ton jeu
+17,0,"Echange ta carte la plus basse avec la dernière carte de la défausse, puis place cette carte sur ton jeu"
+18,0,"Echange ta carte la plus basse avec la dernière carte de la défausse, puis place cette carte sur ton jeu"
+19,0,La personne qui joue après toi joue deux fois
+20,0,La personne qui joue après toi joue deux fois
+21,1,
+22,1,
+23,1,Inverse la position de deux de tes cartes
+24,1,"Echange ta carte la plus basse avec la dernière carte de la défausse, puis place cette carte sur ton jeu"
+25,1,La personne qui joue après toi passe son tour
+26,1,La personne qui joue après toi passe son tour
+27,1,Le sens de rotation entre les joueurs est inversé
+28,1,Tu peux uniquement placer cette carte en haut à gauche de ton jeu
+29,1,Tu peux uniquement placer cette carte en haut à gauche de ton jeu
+30,2,
+31,2,
+32,2,
+33,2,
+34,2,
+35,2,Le sens de rotation entre les joueurs est inversé
+36,2,Tu peux uniquement placer cette carte en bas à droite de ton jeu
+37,2,Tu peux uniquement placer cette carte en bas à droite de ton jeu
+38,2,Regarde les 3 prochaines cartes de la pioche et réorganise-les comme tu veux
+39,2,La personne qui joue après toi passe son tour
+40,2,Inverse la position de deux de tes cartes
+41,3,
+42,3,
+43,3,
+44,3,
+45,3,
+46,3,
+47,3,La personne qui joue après toi passe son tour
+48,3,Le sens de rotation entre les joueurs est inversé
+49,3,Inverse la position de deux de tes cartes
+50,3,Inverse la position de deux de tes cartes
+51,3,Regarde les 3 prochaines cartes de la pioche et réorganise-les comme tu veux
+52,4,
+53,4,
+54,4,
+55,4,
+56,4,
+57,4,
+58,4,
+59,4,
+60,4,La personne qui joue après toi passe son tour
+61,4,La personne qui joue après toi passe son tour
+62,4,Inverse la position de deux de tes cartes
+63,4,Inverse la position de deux de tes cartes
+64,4,Le sens de rotation entre les joueurs est inversé
+65,4,Le sens de rotation entre les joueurs est inversé
+66,4,Regarde les 3 prochaines cartes de la pioche et réorganise-les comme tu veux
+67,5,
+68,5,
+69,5,
+70,5,
+71,5,
+72,5,La personne qui joue après toi passe son tour
+73,5,Découvre ou échange deux cartes au lieu d'une à ce tour
+74,5,Regarde les 3 prochaines cartes de la pioche et réorganise-les comme tu veux
+75,5,Le sens de rotation entre les joueurs est inversé
+76,5,Inverse la position de deux de tes cartes
+77,6,
+78,6,
+79,6,
+80,6,
+81,6,
+82,6,La personne qui joue après toi passe son tour 
+83,6,Le sens de rotation entre les joueurs est inversé
+84,6,Echange entre elles deux cartes d'autres joueureuses
+85,6,Inverse la position de deux de tes cartes
+86,6,Regarde les 3 prochaines cartes de la pioche et réorganise-les comme tu veux
+87,7,
+88,7,
+89,7,
+90,7,Echange entre elles deux cartes d'autres joueureuses
+91,7,Le sens de rotation entre les joueurs est inversé
+92,7,La personne qui joue après toi passe son tour
+93,7,Inverse la position de deux de tes cartes
+94,7,Regarde les 3 prochaines cartes de la pioche et réorganise-les comme tu veux
+95,8,
+96,8,
+97,8,
+98,8,
+99,8,Inverse la position de deux de tes cartes
+100,8,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+101,8,"Echange une de tes cartes avec celle de quelqu'un d'autre, puis place cette carte sur ton jeu"
+102,8,Découvre ou échange deux cartes au lieu d'une à ce tour
+103,9,
+104,9,
+105,9,
+106,9,"Echange une de tes cartes avec celle de quelqu'un d'autre, puis place cette carte sur ton jeu"
+107,9,"Echange une de tes cartes avec celle de quelqu'un d'autre, puis place cette carte sur ton jeu"
+108,9,Inverse la position de deux de tes cartes
+109,9,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+110,9,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+111,10,
+112,10,
+113,10,Inverse la position de deux de tes cartes
+114,10,Inverse la position de deux de tes cartes
+115,10,Découvre ou échange deux cartes au lieu d'une à ce tour
+116,10,Découvre ou échange deux cartes au lieu d'une à ce tour
+117,10,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+118,11,
+119,11,
+120,11,"Echange une de tes cartes avec celle de quelqu'un d'autre, puis place cette carte sur ton jeu"
+121,11,Découvre ou échange deux cartes au lieu d'une à ce tour
+122,11,Découvre ou échange deux cartes au lieu d'une à ce tour
+123,11,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+124,11,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+125,11,Inverse la position de deux de tes cartes 
+126,11,Inverse la position de deux de tes cartes 
+127,12,
+128,12,
+129,12,
+130,12,La personne qui joue après toi doit utiliser la dernière carte de la défausse
+131,12,"Echange une de tes cartes avec celle de quelqu'un d'autre, puis place cette carte sur ton jeu"
+132,12,"Echange une de tes cartes avec celle de quelqu'un d'autre, puis place cette carte sur ton jeu"
+133,12,Découvre ou échange deux cartes au lieu d'une à ce tour
+134,12,Inverse la position de deux de tes cartes
+135,12,Inverse la position de deux de tes cartes
